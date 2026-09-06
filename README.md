@@ -3,7 +3,7 @@
 </h1>
 
 <h3 align="center">
-  Backend Developer | Java | DSA | AI/ML
+  B.Tech CSE (AIML) Student • Backend Development • AI/ML • DSA
 </h3>
 
 <p align="center">
@@ -14,18 +14,93 @@
 
 ## 👨‍💻 About Me
 
+I'm a B.Tech CSE (AIML) student passionate about building software,
+solving problems, and exploring Artificial Intelligence.
+
 - 🎓 B.Tech CSE (AIML) student
-- 💻 Interested in Backend Development and Software Engineering
-- ☕ Currently working with Java
-- 🧠 Strengthening my DSA and problem-solving skills
-- 🤖 Exploring Machine Learning, NLP and AI
-- 🚀 Building projects to understand real-world systems
-- 📚 Continuously learning new technologies
+- ☕ Learning and working with **Java**
+- 🔧 Interested in **Backend Development**
+- 🧠 Strengthening my **DSA & Problem Solving**
+- 🤖 Exploring **AI, Machine Learning, NLP & AI Agents**
+- 🐍 Using **Python** for AI/ML projects
+- 💻 Using **C++** for DSA and problem solving
+- 🚀 Building projects to gain real-world development experience
 
 ---
 
-## 🛠️ Languages & Technologies
+## 🛠️ Tech Stack
+
+### 💻 Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,python" />
+</p>
+
+### 🤖 AI / ML
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python" />
+</p>
+
+### 🔧 Tools
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+### 🤖 AI Research Agent
+
+An AI-powered research assistant that uses specialized agents
+to research, analyze, and generate well-cited reports.
+
+**Tech:** Python • AI Agents • Research Automation
+
+[🔗 View Project](https://github.com/AnshTrivedi135/AI-Research-Agent)
+
+---
+
+### 🧠 LeetCode Solutions
+
+A collection of my LeetCode solutions focused on improving
+DSA, algorithms, and problem-solving skills.
+
+**Tech:** C++ • DSA • Algorithms
+
+[🔗 View Repository](https://github.com/AnshTrivedi135/LeetCode-Solutions)
+
+---
+
+## 🧠 Problem Solving
+
+I regularly practice **Data Structures & Algorithms** to improve
+my logical thinking, coding skills, and interview preparation.
+
+**Focus:** Arrays • Strings • Linked Lists • Trees • Graphs •
+Recursion • Sorting • Searching • Dynamic Programming
+
+---
+
+
+---
+
+## 🤝 Connect With Me
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,spring,mysql,mongodb,git,github,idea,vscode" />
+
+<a href="https://github.com/AnshTrivedi135">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/ansh-trivedi-322480364/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+</a>
+
+<a href="https://leetcode.com/u/ansh_5379/">
+  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode" />
+</a>
+
 </p>
