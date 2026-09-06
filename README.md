@@ -84,6 +84,21 @@ Recursion • Sorting • Searching • Dynamic Programming
 
 ---
 
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=AnshTrivedi135&theme=dark&hide_border=true" />
+</p>
+
+---
+
+## 📊 LeetCode Statistics
+
+<p align="center">
+  <a href="https://leetcode.com/u/ansh_5379/">
+    <img src="https://leetcard.jacoblin.cool/ansh_5379?theme=dark" />
+  </a>
+</p>
 
 ---
 
